@@ -46,8 +46,6 @@ header {
     background-color: white;
     padding: 16px;
     border-bottom: 4px solid hsl(0deg, 0%, 30%);
-    width: -moz-fit-content;
-    width: fit-content;
 }
 
 .indented-heading {
